@@ -63,8 +63,8 @@ Para contribuir com nosso projeto, siga estas etapas:
   - [Christopher Mamed](https://www.linkedin.com/in/christopher-mamed-407485139/)
   - [Hadonias Leite](https://www.linkedin.com/in/hadonias-leite-barbosa-5b6b31219/)
   - [Jeneffer Souza](https://www.linkedin.com/in/jeneffer-souza-b409a8226/)
-  - [Yoni](https://https://linkedin.com/in/USUARIO)
-  - [Ytallo Bruno](https://https://linkedin.com/in/ytallobruno)
+  - [Yonathan Rabinovici](https://www.linkedin.com/in/yonathan-rabinovici-gherman/)
+  - [Ytallo Bruno](https://linkedin.com/in/ytallobruno)
 
 <hr>
 
