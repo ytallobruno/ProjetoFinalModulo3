@@ -1,4 +1,4 @@
-# Projeto final do módulo 3: nome ??? 💡
+# Projeto final do módulo 3: Dados Game of Thrones 🐲
 
 <div id="inicio" align=center>
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;
@@ -10,13 +10,22 @@
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
-  <p>Projeto Final Módulo 3</p>
+  <p>Neste projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados.</p>
 
-  - 
-  - 
-  - 
+  **SPRINT 1:**
+  <p>Os objetivos principais dessa sprint são:</p>
 
-<img src="" alt="imagem da tela do página home do projeto">
+  - Estruturar o esquema do banco de dados: A partir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Note que não é necessário mapear todas as colunas de todas as tabelas. Mantenha sua implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo
+  - Realizar carga no banco: Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.
+  - Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. Neste primeiro momento, dê asas a imaginação. As perguntas geradas nesta etapa impactam diretamente as demais desta Sprint.
+
+  **SPRINT 2:**
+  <p>Os objetivos principais dessa sprint são: </p>
+  
+  - Criar visualizações dos dados com base nas perguntas elaboradas na sprint anterior (aqui vocês podem usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)
+  - Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado
+
+<!-- <img src="" alt="imagem da tela do página home do projeto"> -->
 
 <br>
 
@@ -26,15 +35,17 @@
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
-  - [ ] ??
-  - [ ] ?? 
+  - [x] MySQL
+  - [x] Git
+  - [x] KanBan
+  - [x] Scrum 
 
 
 <h2 id="habilidades">Habilidades Adquiridas 📝</h2>
 
-  - ??
-  - ??
-  - ??
+  - 
+  - 
+  - 
 
 
 <h2 id="contribuir">Como contribuir 📫</h2>
@@ -49,9 +60,10 @@ Para contribuir com nosso projeto, siga estas etapas:
 
 <h2 id="grupo">Autores 🥇</h2>
 
-  - [???](https://www.linkedin.com/in/)
-  - [???](https://www.linkedin.com/in/)
-  - [???](https://www.linkedin.com/in/)
+  - [Christopher Mamed](https://www.linkedin.com/in/christopher-mamed-407485139/)
+  - [Hadonias Leite](https://www.linkedin.com/in/hadonias-leite-barbosa-5b6b31219/)
+  - [Jeneffer Souza](https://www.linkedin.com/in/jeneffer-souza-b409a8226/)
+  - [Yoni](https://https://linkedin.com/in/USUARIO)
   - [Ytallo Bruno](https://https://linkedin.com/in/ytallobruno)
 
 <hr>
