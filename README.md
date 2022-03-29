@@ -25,8 +25,6 @@
   - Criar visualizações dos dados com base nas perguntas elaboradas na sprint anterior (aqui vocês podem usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc)
   - Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado
 
-<!-- <img src="" alt="imagem da tela do página home do projeto"> -->
-
 <br>
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
@@ -43,9 +41,10 @@
 
 <h2 id="habilidades">Habilidades Adquiridas 📝</h2>
 
-  - 
-  - 
-  - 
+  - Queries avançadas
+  - Sub queries
+  - Utilização de metodologias ágeis (Kanban, Scrum) em projetos
+  - Análise de dados
 
 
 <h2 id="contribuir">Como contribuir 📫</h2>
