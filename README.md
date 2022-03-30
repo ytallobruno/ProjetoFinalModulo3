@@ -29,7 +29,7 @@
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 
-  ![Badge](https://img.shields.io/website?down_message=em%20andamento&label=STATUS&style=for-the-badge&up_message=conclu%C3%ADdo&url=https%3A%2F%2Fytallobruno.github.io%2FProjetoFinalModulo3%2F)
+  ![Badge](https://img.shields.io/website?down_color=Concluido&label=Status&style=for-the-badge&up_message=Concluido&url=https%3A%2F%2Fgithub.com%2Fytallobruno%2FProjetoFinalModulo3)
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
