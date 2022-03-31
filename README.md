@@ -35,6 +35,8 @@
 
   - [x] MySQL
   - [x] Git
+  - [x] Excel
+  - [x] Canva
   - [x] KanBan
   - [x] Scrum 
 
